@@ -14,7 +14,6 @@ DSpace at the Princeton University Library
    development_workflow
    dspace_jruby
    dspace_cli
-   dspace_python
    dataspace
    symplectic_elements
 
